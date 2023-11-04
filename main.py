@@ -1,7 +1,7 @@
 def main():
     range = [0,0,0,0]
 
-    rounds = 374887
+    rounds = 0
     while(range[0] != 256):
         
         range[3] += 1
